@@ -21,7 +21,7 @@ saving time.
 
 I have never used Cypress before until today, so it took more time than I anticipated 
 to get it set up. Mostly because I was getting distracted playing around with all the tools 
-that it offers out of the box. It was easy to sign in to the cloud dashboard so I just used 
+that it offers out of the box :D. It was easy to sign in to the cloud dashboard so I just used 
 that for reporting over setting one up locally. If you wish to run the report run the following in terminal :
   _cypress run --record --key ab8b8fc2-a8f8-4c1e-ab47-7ccea94c93b9_
 

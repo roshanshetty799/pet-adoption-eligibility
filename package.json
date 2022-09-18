@@ -1,0 +1,17 @@
+{
+  "name": "pet-adoption-eligibility",
+  "version": "1.0.0",
+  "description": "Cypress Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roshan Shetty",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.8.0",
+    "cypress-multi-reporters": "^1.6.1",
+    "mocha": "^10.0.0",
+    "mochawesome": "^7.1.3"
+  }
+}
